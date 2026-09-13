@@ -1,0 +1,18 @@
+tells about the delta track position after 5 laps
+
+input:
+driver
+team
+tyre age
+tyre type
+past 5 lap avg, median, best laptime
+past 3 lap avg, median, best laptime
+last lap times
+time delta to forward 3 drivers
+time delta to previous 3 drivers
+past 5 lap avg, median, best laptime of forward and backward 3 drivers
+total avg and median lap times 
+current position 
+
+output:
+position delta
